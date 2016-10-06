@@ -26,6 +26,12 @@ public class launchBrowser {
 			
 			driver = new FirefoxDriver();		
 		}	
+		
+		if (ScriptDriver == "IE"){	
+			System.setProperty("webdriver.firefox.marionette","C:\\geckodriver\\geckodriver.exe");
+			
+			//driver = new FirefoxDriver();		
+		}	
 	}
 
 	public void OpenBrowser(String autUrl) {
