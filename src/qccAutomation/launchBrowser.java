@@ -31,7 +31,7 @@ public class launchBrowser {
 			System.setProperty("webdriver.firefox.marionette","C:\\geckodriver\\geckodriver.exe");
 			//test 
 			//test1
-			//test2
+			//test3
 			//driver = new FirefoxDriver();		
 		}	
 	}
