@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106362" started-at="2016-11-03T06:28:36Z" finished-at="2016-11-03T06:30:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106362" started-at="2016-11-03T06:28:36Z" finished-at="2016-11-03T06:30:22Z">
+      <class name="qccAutomation.TestNG_QCCDriverScript">
+        <test-method status="PASS" signature="loginQCC()[pri:0, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="loginQCC" duration-ms="15946" started-at="2016-11-03T17:28:36Z" finished-at="2016-11-03T17:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginQCC -->
+        <test-method status="PASS" signature="AgencySetting()[pri:1, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="AgencySetting" duration-ms="14455" started-at="2016-11-03T17:28:52Z" finished-at="2016-11-03T17:29:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AgencySetting -->
+        <test-method status="PASS" signature="AccessSetting()[pri:2, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="AccessSetting" duration-ms="15732" started-at="2016-11-03T17:29:06Z" finished-at="2016-11-03T17:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccessSetting -->
+        <test-method status="PASS" signature="UserSetting()[pri:3, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="UserSetting" duration-ms="26438" started-at="2016-11-03T17:29:22Z" finished-at="2016-11-03T17:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserSetting -->
+        <test-method status="PASS" signature="deleteAccess()[pri:4, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="deleteAccess" duration-ms="7894" started-at="2016-11-03T17:29:48Z" finished-at="2016-11-03T17:29:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccess -->
+        <test-method status="PASS" signature="deleteAgency()[pri:5, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="deleteAgency" duration-ms="8813" started-at="2016-11-03T17:29:56Z" finished-at="2016-11-03T17:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAgency -->
+        <test-method status="PASS" signature="RegionSetting()[pri:6, instance:qccAutomation.TestNG_QCCDriverScript@7c16905e]" name="RegionSetting" duration-ms="17046" started-at="2016-11-03T17:30:05Z" finished-at="2016-11-03T17:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegionSetting -->
+      </class> <!-- qccAutomation.TestNG_QCCDriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
