@@ -29,7 +29,7 @@ public class launchBrowser {
 		
 		if (ScriptDriver == "IE"){	
 			System.setProperty("webdriver.firefox.marionette","C:\\geckodriver\\geckodriver.exe");
-			
+			//test
 			//driver = new FirefoxDriver();		
 		}	
 	}
